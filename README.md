@@ -21,11 +21,14 @@
 
 ---
 
-## 📫 Contact:
-- 📧 abhaypjha@gmail.com
-- 🌐 [GitHub](https://github.com/Abhaypjha)
-- ⏳ Time Zone: IST (UTC +5:30)
+📫 Contact:
+📧 abhaypjha@gmail.com  
+🌐 [GitHub](https://github.com/Abhaypjha)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhay-jha-a93b33a1/)  
+⏳ Time Zone: IST (UTC +5:30)
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhaypjha&show_icons=true&theme=tokyonight)
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhaypjha&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaypjha&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Visitor Count](https://komarev.com/ghpvc/?username=Abhaypjha&color=green)
