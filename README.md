@@ -12,10 +12,8 @@
 ![Cumulative PnL](./cumulative_pnl_beautiful_graph.png)
 ## 📈 Strategy Performance Dashboard
 
-![Profit and Loss Chart](Profit%20and%20Loss%20chart%20of%20three%20months.jpg)
+![Profit and Loss Chart](profit_loss_chart.jpg)
 
-
----
 
 ## 🛠️ Tech Stack
 
