@@ -12,7 +12,7 @@
 ![Cumulative PnL](./cumulative_pnl_beautiful_graph.png)
 ## 📈 Strategy Performance Dashboard
 
-![Profit and Loss Chart](https://raw.githubusercontent.com/Abhaypjha/Algo-strategy/main/profit_loss_chart.jpg)
+![Cumulative PnL](cumulative_pnl_chart.jpg)
 
 
 
